@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'ELMS(Moodle)',  url: 'https://elms.u-aizu.ac.jp/my/?lang=en'}
-- {name: 'Campus square', url: 'https://csweb.u-aizu.ac.jp/campusweb/campusportal.do?locale=en_US'}
-- {name: 'Lab home page',       url: 'https://u-aizu.ac.jp/~udayrage/students.html'}
+- {name: 'name',  url: 'posts'}
+- {name: 'details', url: 'more details'}
+- {name: 'Lab home page',       url: 'pages'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
